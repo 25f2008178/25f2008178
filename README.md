@@ -2,7 +2,9 @@
 
 ---
 #### About Me
-I'm a first-year student doing the B-Tech CSE Program @ Maharaja Surajmal Institute of Technology and the BS in Data Science & Applications Online Program @ IIT Madras, passionate about exploring the world of technology. My current focus is on Python, Rust, AWS, and Docker, and I love experimenting with new tools and frameworks to learn by building.
+I'm a first-year student doing the B-Tech CSE Program @ Maharaja Surajmal Institute of Technology and the BS in Data Science & Applications Online Program @ IIT Madras.
+
+My current focus is on Python, Rust, AWS, and Docker, and I love experimenting with new tools and frameworks to learn by building.
 
 #### Certifications
 - AWS Certified Cloud Practioner - Acquired on 9th June 2021 - Recertified on 15th May 2024 - [Verification](https://www.credly.com/earner/earned/badge/4fcdbf97-cd66-4e51-86bc-ad02fa650cbb)
@@ -11,4 +13,3 @@ I'm a first-year student doing the B-Tech CSE Program @ Maharaja Surajmal Instit
 ### Other Links
 - Personal GitHub: https://github.com/retro-sapphire
 - LinkedIn: https://www.linkedin.com/in/rishabarora-tech/
-- Discord: @retro.sapphire
