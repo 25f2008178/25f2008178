@@ -11,5 +11,5 @@ My current focus is on Python, Rust, AWS, and Docker, and I love experimenting w
 - Docker IBM Cogitive Class Certification - Acquired on 28th July 2021 - [Verification](https://courses.cognitiveclass.ai/certificates/90a44e4cdaee4287afad02eebb86d4fe)
 
 ### Other Links
-- Personal GitHub: https://github.com/retro-sapphire
+- Personal GitHub: https://github.com/the-carbon-matrix/
 - LinkedIn: https://www.linkedin.com/in/rishabarora-tech/
